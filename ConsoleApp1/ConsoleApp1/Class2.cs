@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Class2
     {
-     //new comment
-     //comment 2
-     //comment 3
-        static void Main(string[] args) {
-        }
     }
 }
