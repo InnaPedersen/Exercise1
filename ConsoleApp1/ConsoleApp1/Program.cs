@@ -11,6 +11,8 @@ namespace ConsoleApp1
         //new comment 123
         static void Main(string[] args)
         {
+            // test 1
+            // test 2
         }
     }
 }
